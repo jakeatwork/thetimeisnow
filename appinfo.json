@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Agile Ramen LLC",
+    "longName": "the time is now",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "the time is now",
+    "uuid": "4f2f006a-4726-4c6c-8c2d-f2fd9dd042b7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
